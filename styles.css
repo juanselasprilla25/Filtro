@@ -1,0 +1,25 @@
+.content h1{
+	text-align: center;
+}
+.content input{
+	width: 98%;
+	margin: 5px;	
+	padding: 5px;
+	border: none;
+	border-bottom: 1px solid black;
+	font-size: 18px;
+}
+.table_content ul, a{
+	list-style: none;
+	text-decoration: none;
+}
+.table_header, .table_item{
+	border: 1px solid black;
+	margin: 5px;	
+	padding: 5px;
+	padding-left: 10px;
+}
+.table_item{
+	padding-left: 22px;
+	/*display: none;*/
+}
